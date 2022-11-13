@@ -18,7 +18,7 @@ In this project you will find will find the complete exercise belonging to the F
 1. Clone the repo
 
 ```sh
-git clone https://github.com/Helekin/mern-01-backend-easy-places.git
+git clone https://github.com/Helekin/mern-01-easy-places-frontend.git
 ```
 
 2. Create your .env file and use your credentials (optional)
